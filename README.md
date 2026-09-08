@@ -9,7 +9,7 @@
 
 ## 使用方法
 ```
-在.env文件中配置API_Key、BASE_URL、Model后
+在.env文件中配置API_KEY、BASE_URL、MODEL后
 直接双击运行jailbreaking_is_all_you_need.exe即可
 ```
 ## 效果演示
